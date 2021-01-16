@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+
+* {
+  font-family: 'Hanalei Fill', cursive;
+}
+
+body {
+  background:#eee;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  flex-direction: column;
+}
+body h2 {
+  color: #FC8181;
+}
